@@ -9,6 +9,14 @@ npm run dev
 
 Open the local URL printed by Next.js.
 
+## Deployment
+
+- Repository: https://github.com/followthepattern/huszkacsaba.com
+- Production: https://huszkacsaba-com.vercel.app
+- Vercel project: https://vercel.com/followthepattern-team/huszkacsaba-com
+
+`vercel.json` selects the Next.js framework. To deploy directly from this checkout, run `npx vercel deploy --prod --scope followthepattern-team --project huszkacsaba-com` after signing in with `npx vercel login`. Local Vercel credentials and environment files are ignored by Git.
+
 - **Guided (1):** scroll down to follow the exhibition route along the hall and into all four galleries, in order. The camera follows a curved path through each room before returning to the hall. Scroll up to retrace. Click a room in the menu or floor plan to walk straight there and continue scrolling from that room’s place on the same route. Click visible floor to glide there; scrolling then rejoins the nearest part of the route. Drag to look. Arrow keys and the progress slider also control the tour.
 - **Free walk (2):** WASD or arrow keys to move; drag to look. Hold Shift to move faster. On-screen arrows support touch. The room menu remains available.
 - On touchscreens in guided mode, swipe vertically to travel and horizontally to look.
