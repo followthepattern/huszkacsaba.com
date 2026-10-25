@@ -1,0 +1,18 @@
+{
+  "source": "assets/source/superhot_enemy_stl.fbx",
+  "sourceSha256": "f6195f6569e4cabeb2c347905abaddf9f9397a25fcb7708ccb01be779aa6cd3a",
+  "originalTriangles": 35987,
+  "discardedDebrisTriangles": 6,
+  "optimizedTriangles": 12059,
+  "vertices": 5887,
+  "relativeError": 0.0007499523926526308,
+  "poseCorrectionDegrees": 10.841813662977087,
+  "errorLimit": 0.00075,
+  "dimensions": [
+    0.6938400268554688,
+    2.299999952316284,
+    0.4383486807346344
+  ],
+  "output": "public/models/gallery-visitor.glb",
+  "outputBytes": 214884
+}

@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+.vercel/
+.env
+.env.*
+!.env.example
+tmp/
+/cv-gallery-preview.png
